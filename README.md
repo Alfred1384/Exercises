@@ -173,4 +173,4 @@ S =
 
 
 
-[View Exercise1dat.mat](https://github.com/Afreedh34/Exercise1/blob/main/Exercise1dat.mat)
+
