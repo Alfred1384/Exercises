@@ -1,0 +1,8 @@
+disp('Output of Exercise55.m:')
+Output of Exercise55.m:
+S
+
+S =
+
+     3
+
