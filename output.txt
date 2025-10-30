@@ -1,8 +1,0 @@
-Output of Exercise51.m:
-
-S = 3×3
-     3     2     4
-     5     7     9
-     7     9    11
-
-1
