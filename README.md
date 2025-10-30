@@ -1,4 +1,4 @@
-[output of Exercise61.txt](https://github.com/user-attachments/files/23245947/output.of.Exercise61.txt)[output of Exercise56.txt](https://github.com/user-attachments/files/23245946/output.of.Exercise56.txt)[output of Exercise55.txt](https://github.com/user-attachments/files/23245945/output.of.Exercise55.txt)[output of Exercise54.txt](https://github.com/user-attachments/files/23245942/output.of.Exercise54.txt)[output of Exercise53.txt](https://github.com/user-attachments/files/23245938/output.of.Exercise53.txt)[output of Exercise52.txt](https://github.com/user-attachments/files/23245936/output.of.Exercise52.txt)[output of Exercise51.txt](https://github.com/user-attachments/files/23245933/output.of.Exercise51.txt)### 🔹 Output related to Exercise 1
+### 🔹 Output related to Exercise 1
 This image shows the result of the first MATLAB exercise:
 
 ![](https://github.com/ethan-ou/Statistical-Learning/blob/main/IMG_3864.jpeg)
