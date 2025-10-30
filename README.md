@@ -1,3 +1,19 @@
-![Exercise1](https://github.com/user-attachments/assets/8eff9555-7e78-4b6c-8f5e-0a291a5bdfd6)
-![Exercise2](https://github.com/user-attachments/assets/5d3bc0f9-6627-4ba6-bdf3-11e1bf38dd41)
-![Exercise4](https://github.com/user-attachments/assets/b95c254d-62b5-4e72-a3a9-c9bb4622b992)
+### 🔹 Output related to Exercise 1
+This image shows the result of the first MATLAB exercise:
+
+![](https://github.com/ethan-ou/Statistical-Learning/blob/main/IMG_3864.jpeg)
+
+---
+
+### 🔹 Output related to Exercise 2
+This image shows the result of the second MATLAB exercise:
+
+![](https://github.com/ethan-ou/Statistical-Learning/blob/main/IMG_3865.jpeg)
+
+---
+
+### 🔹 Output related to Exercise 3
+This image shows the result of the third MATLAB exercise:
+
+![](https://github.com/ethan-ou/Statistical-Learning/blob/main/IMG_3866.jpeg)
+
