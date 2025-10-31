@@ -15,7 +15,7 @@ This image shows the result of the second MATLAB exercise:
 ---
 
 ### 🔹 Output related to Exercise 4
-This image shows the result of the third MATLAB exercise:
+This image shows the result of the fourth MATLAB exercise:
 ![Exercise4](https://github.com/user-attachments/assets/2d5e8021-d688-41b4-9ca8-082f2abc90e0)
 
 ![](https://github.com/ethan-ou/Statistical-Learning/blob/main/IMG_3866.jpeg)
